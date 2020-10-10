@@ -36,6 +36,7 @@
   * Linked-List
     * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
     * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
+    * [RotateListRight](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/RotateListRight.js)
     * [SingleCircularLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SingleCircularLinkedList.js.js)
     * [SinglyLinkList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SinglyLinkList.js)
   * Queue
@@ -57,7 +58,9 @@
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LevenshteinDistance.js)
   * [LongestCommonSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestCommonSubsequence.js)
   * [LongestIncreasingSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestIncreasingSubsequence.js)
+  * [LongestPalindromicSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestPalindromicSubsequence.js)
   * [MaxNonAdjacentSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxNonAdjacentSum.js)
+  * [MinimumCostPath](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MinimumCostPath.js)
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
   * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
@@ -83,6 +86,8 @@
 
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
+  * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.js)
+  * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.test.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
   * [digitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/digitSum.js)
   * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
@@ -90,6 +95,7 @@
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [GridGet](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GridGet.js)
+  * [isDivisible](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/isDivisible.js)
   * [MeanSquareError](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MeanSquareError.js)
   * [ModularBinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ModularBinaryExponentiationRecursive.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
@@ -102,10 +108,12 @@
 
 ## Project-Euler
   * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem1.js)
+  * [Problem2](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem2.js)
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
   * [FibonacciNumberRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/FibonacciNumberRecursive.js)
+  * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/Palindrome.js)
   * [TowerOfHanoi](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/TowerOfHanoi.js)
 
 ## Search
@@ -147,8 +155,12 @@
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.test.js)
   * [CheckRearrangePalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckRearrangePalindrome.js)
+  * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckVowels.js)
+  * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckVowels.test.js)
   * [CheckWordOccurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOccurrence.js)
   * [CheckWordOcurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOcurrence.test.js)
+  * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.js)
+  * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.test.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.test.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
